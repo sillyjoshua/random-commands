@@ -1,0 +1,28 @@
+Joshuakingstech Forking License (JFT License)
+Copyright (c) [YEAR] Joshuakingstech
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this repository and associated files (the "Software"), to fork the
+repository and to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, subject to the following conditions:
+
+1. Attribution: The above copyright notice and this permission notice shall
+    be included in all copies or substantial portions of the Software, and
+    reasonable credit to "Joshuakingstech" must be retained in repository
+    descriptions, README files, or other prominent documentation.
+
+2. No endorsement: Forking or other use of the Software does not imply
+    endorsement by Joshuakingstech. You may not use the name "Joshuakingstech"
+    to promote derived works without prior written permission.
+
+3. Optional changes: You may provide your modifications under a different
+    license, provided that the original copyright notice and this permission
+    notice remain accessible in the original repository or distributed source.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
